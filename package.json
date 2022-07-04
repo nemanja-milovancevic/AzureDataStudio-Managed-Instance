@@ -11,7 +11,7 @@
   },
   "icon": "images/ManagedInstanceLogo.png",
   "license": "SEE LICENSE IN LICENSE.txt",
-  "repository": "https://github.com/nemanja-milovancevic/AzureDataStudio-Managed-Instance",
+  "repository": "https://github.com/JocaPC/AzureDataStudio-Managed-Instance",
   "categories": [
     "Other"
   ],
